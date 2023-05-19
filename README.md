@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nest0w0
-- 👀 I’m interested in ...programming in general
-- 🌱 I’m currently learning ...the disaster called web development
-- 💞️ I’m looking to collaborate on ... yes
-- 📫 How to reach me ... my email: nestor.gar22194@gmail.com
+- 👀 I’m interested in... programming in general
+- 🌱 I’m currently learning... neural networks
+- 💞️ I’m looking to collaborate on... collegue projects with my classmates
+- 📫 How to reach me... my email: nestor.gar22194@gmail.com
 
 <!---
 Nest0w0/Nest0w0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
